@@ -18,7 +18,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/online-nursery-store.git
+git clone https://github.com/SaiJeyanth24/online-plant-store.git
 cd online-nursery-store
 Install dependencies:
 
